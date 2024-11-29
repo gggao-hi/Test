@@ -1,0 +1,23 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "NPL",
+            "properties": {
+                "name": "Nepal"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [81.281440,30.811962],
+                      [79.966931,28.763163],
+                      [88.020284,26.353302],
+                      [88.226535,28.024705]
+                    ]
+                ]
+            }
+        }
+    ]
+}
