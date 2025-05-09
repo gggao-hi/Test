@@ -1,4 +1,5 @@
-{
+{"type":"FeatureCollection","features":[
+{"type":"Feature","id":"AFG","properties":{"name":"Afghanistan"},"geometry":{
     "type": "MultiPolygon",
     "coordinates": [
         [
@@ -7370,4 +7371,5 @@
             ]
         ]
     ]
-}
+}}
+]}
